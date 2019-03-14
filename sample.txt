@@ -1,3 +1,5 @@
 Sample text!
 
 This is the first line in this document.
+
+This line is added on the branch!
